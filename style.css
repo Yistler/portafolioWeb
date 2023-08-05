@@ -13,8 +13,9 @@ nav{
 
 .header {
     height: 100vh;
-    display: flex;
-    align-items: center;
+    display: grid;
+    align-content: center;
+    justify-content: center;
     color: #fff;
 }
 
@@ -46,17 +47,14 @@ nav{
 
 .header-content {
     z-index: 2;
-    display: flex;
-    margin: auto;
-    align-items: center;
-    justify-content: space-between;
+    display: grid;
+    justify-content: center;
+    align-content: center;
 }
 .header-content img{
-    margin: auto;
     width: 300px;
     background-size: cover;
     border-radius: 100%;
-    align-items: center;
 }
 
 .header-content h1{
