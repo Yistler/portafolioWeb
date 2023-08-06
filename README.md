@@ -1,1 +1,1 @@
-## puedes visitar el portafolio  [aqui](https://yistler.github.io/portafolioWeb/)
+## puedes visitar mi portafolio  [aqui](https://yistler.github.io/portafolioWeb/)
