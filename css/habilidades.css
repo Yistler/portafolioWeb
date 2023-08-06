@@ -1,0 +1,58 @@
+.habilidades{
+    display: grid;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.habilidad{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    justify-content: space-around;
+    padding-top: 3rem;
+}
+.habilidad img{
+    transition: 300ms;
+}
+
+@media screen and (min-width: 0px){
+    .habilidad img{
+        width: 150px;
+        height: 150px;
+    }
+    .habilidad{
+        flex-direction: column;
+    }
+    .habilidad img:hover{
+        width: 165px;
+        height: 165px;
+    }
+    
+}
+@media screen and (min-width: 768px){
+    .habilidad img{
+        width: 150px;
+        height: 150px;
+    }
+    .habilidad{
+        flex-direction: row;
+    }
+    .habilidad img:hover{
+        width: 170px;
+        height: 170px;
+    }
+    
+}
+@media screen and (min-width: 992px){
+    .habilidad img{
+        width: 200px;
+        height: 200px;
+    }
+    .habilidad{
+        flex-direction: row;
+    }
+    .habilidad img:hover{
+        width: 220px;
+        height: 220px;
+    }
+    
+}
