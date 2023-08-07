@@ -9,7 +9,7 @@ body{
     overflow-x: hidden;
 }
 main{
-    background-color:aliceblue;
+    background-color: light;
 }
 nav{
     z-index: 3;
