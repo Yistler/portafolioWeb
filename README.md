@@ -10,3 +10,9 @@ Soy estudiante de 2do año de Ingenieria Informatica tambien estoy realizado var
 <h4 align="center">
 :construction: Proyecto en construcción :construction:
 </h4>
+
+### Tecnologías utilizadas
+
+- `Html5`
+- `Css3`
+- `Bootstrap`
